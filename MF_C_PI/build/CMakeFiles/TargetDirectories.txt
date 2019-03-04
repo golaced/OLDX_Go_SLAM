@@ -1,0 +1,3 @@
+/home/pi/QT/MF_C/build/CMakeFiles/edit_cache.dir
+/home/pi/QT/MF_C/build/CMakeFiles/rebuild_cache.dir
+/home/pi/QT/MF_C/build/CMakeFiles/mf_c.dir
